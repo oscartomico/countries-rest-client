@@ -1,0 +1,37 @@
+82|Spain|90000000
+83|France|5000000
+84|Germany|6000000
+85|United Kingdon|7000000
+86|Andorra|5000000
+87|Switzerland|5000000
+88|Finland|5000000
+89|United States of America|50000000
+90|Mexico|500000000
+91|Peru|1000000
+92|Argentina|1000000
+93|China|1000000
+94|Japón|1000000
+95|India|1000000
+96|Guatemala|1000000
+97|Guatemala aa|7000000
+98|Guatemala aasss|7000000
+99|VVVVVVVVV|79000000
+100|Spain|90000000
+101|France|5000000
+102|Germany|6000000
+103|United Kingdon|7000000
+104|Andorra|5000000
+105|Switzerland|5000000
+106|Finland|5000000
+107|United States of America|50000000
+108|Mexico|500000000
+109|Peru|1000000
+110|Argentina|1000000
+111|China|1000000
+112|Japón|1000000
+113|India|1000000
+114|Guatemala|1000000
+115|Guatemala aa|7000000
+116|Guatemala aasss|7000000
+117|VVVVVVVVV|79000000
+118|Vssssss|79000000

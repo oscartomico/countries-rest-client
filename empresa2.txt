@@ -1,0 +1,18 @@
+64-Spain-90000000
+65-France-5000000
+66-Germany-6000000
+67-United Kingdon-7000000
+68-Andorra-5000000
+69-Switzerland-5000000
+70-Finland-5000000
+71-United States of America-50000000
+72-Mexico-500000000
+73-Peru-1000000
+74-Argentina-1000000
+75-China-1000000
+76-Japón-1000000
+77-India-1000000
+78-Guatemala-1000000
+79-Guatemala aa-7000000
+80-Guatemala aasss-7000000
+81-VVVVVVVVV-79000000
